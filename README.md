@@ -1,5 +1,5 @@
 # EXPT 2 - Verification of Logic Gates
-### SIMULATION AND VERIFICATION OF AND, OR, AND NOT GATES
+### SIMULATION AND VERIFICATION OF AND, OR, NAND, NOR, XOR AND NOT GATES
 ## Aim
 To design, implement, and verify the functionality of basic AND, OR, NAND,NOR,XORand NOT logic gates using Verilog HDL, and verify the functionality using Synopsys VCS and DVE.
 # Software Required
