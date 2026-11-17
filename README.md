@@ -148,8 +148,8 @@ Y_XOR =(A^B)
 
 Output
 # OUTPUT
-<img width="1920" height="1020" alt="Screenshot 2026-11-16 225036" src="https://github.com/user-attachments/assets/689774f2-fa02-4868-a0da-d43c13194097" />
-<img width="1920" height="1020" alt="Screenshot 2026-11-16 225331" src="https://github.com/user-attachments/assets/b1506687-dc53-4a7c-89b3-3d2c1a3fea62" />
+<img width="1912" height="1022" alt="Screenshot 2026-11-01 221721" src="https://github.com/user-attachments/assets/14a156c8-44db-428d-989f-f224b2810ba8" />
+
 
 
 
